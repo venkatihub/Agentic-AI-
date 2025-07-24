@@ -8,7 +8,9 @@
 /BE/ui_knowledge_db
 
 # Next.js
-fe/.next/
+/fe/.next
+/FE/.next
+.next/
 /out/
 /build
 
