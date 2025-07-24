@@ -1,0 +1,14 @@
+langchain
+langchain-google-genai
+chromadb
+pymongo
+python-dotenv
+fastapi
+uvicorn
+langgraph
+sentence-transformers
+wikipedia-api
+cachetools
+numpy
+scikit-learn
+requests
